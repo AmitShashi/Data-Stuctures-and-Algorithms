@@ -14,6 +14,7 @@ Explanation: First reverse each row: [[0,1,1],[1,0,1],[0,0,0]].
 Then, invert the image: [[1,0,0],[0,1,0],[1,1,1]]
 
 */
+
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {
         int C = A[0].length;
