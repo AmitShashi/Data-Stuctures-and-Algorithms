@@ -28,5 +28,4 @@ public static boolean solution(int[] arr)
 		}
 	}
 	return false;
-    }
 }
