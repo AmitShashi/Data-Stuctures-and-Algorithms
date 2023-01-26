@@ -3,8 +3,6 @@ Given a string s and a dictionary of strings wordDict, return true if s can be s
 
 Note that the same word in the dictionary may be reused multiple times in the segmentation.
 
- 
-
 Example 1:
 
 Input: s = "leetcode", wordDict = ["leet","code"]
